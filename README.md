@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **vaishnavibuke/vaishnavibuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ## 👋 Hi, I'm Vaishnavi Buke!
-
-⚡ **Frontend is my playground, and I craft code like it's a form of art.** Whether it's styling pixels to perfection or bringing designs to life in React, I love turning ideas into beautiful, functional interfaces.
 
 📸 **When I’m not coding, you’ll probably find me capturing stories through my lens.** Photography is my creative escape – just like coding, it’s all about perspective.
 
