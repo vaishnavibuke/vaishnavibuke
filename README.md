@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Vaishnavi Buke!
 
-📸 When I’m not coding, you’ll probably find me capturing stories through my lens.
+When I’m not coding, you’ll probably find me capturing stories through my lens. 📸
 
-### 🛠️ Languages and Tools:
+###  Languages and Tools:
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration:none;">
@@ -52,7 +52,7 @@
 </p>
 
 
-### 📊 GitHub Stats:
+### GitHub Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavibuke&layout=compact&langs_count=8&theme=default)
 
