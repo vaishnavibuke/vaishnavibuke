@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Vaishnavi Buke!
 
-📸 *When I’m not coding, you’ll probably find me capturing stories through my lens.*
+📸 When I’m not coding, you’ll probably find me capturing stories through my lens.
 
 ### 🛠️ Languages and Tools:
 
