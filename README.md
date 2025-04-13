@@ -23,10 +23,6 @@
   <a href="https://reactjs.org/" target="_blank" style="text-decoration: none; outline: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30"/>
   </a>
-</p>
-
-<!-- Line 2 -->
-<p align="left">
   <a href="https://getbootstrap.com/" target="_blank" style="text-decoration: none; outline: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="30" height="30"/>
   </a>
