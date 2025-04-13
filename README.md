@@ -1,126 +1,61 @@
 ## 👋 Hi, I'm Vaishnavi Buke!
 
-📸 **When I’m not coding, you’ll probably find me capturing stories through my lens.** Photography is my creative escape – just like coding, it’s all about perspective.
-
----
+📸 *When I’m not coding, you’ll probably find me capturing stories through my lens.*
 
 ### 🛠️ Languages and Tools:
 
-<!-- Remove blue underline and spacing under icons -->
-<style>
-  .icon-link {
-    text-decoration: none;
-    outline: none;
-  }
-  .icon-link img {
-    width: 30px;
-    height: 30px;
-    margin-right: 10px;
-    vertical-align: middle;
-  }
-</style>
-
 <p align="left">
-  <a class="icon-link" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30" style="margin-right:10px;"/>
   </a>
-  <a class="icon-link" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30" style="margin-right:10px;"/>
   </a>
-  <a class="icon-link" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30" style="margin-right:10px;"/>
   </a>
-  <a class="icon-link" href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"/>
-  </a>
-
-  <a class="icon-link" href="https://getbootstrap.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap"/>
-  </a>
-  <a class="icon-link" href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS"/>
-  </a>
-  <a class="icon-link" href="https://sass-lang.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS"/>
-  </a>
-  <a class="icon-link" href="https://lesscss.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg" alt="LESS"/>
-  </a>
-  <a class="icon-link" href="https://mui.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI"/>
+  <a href="https://reactjs.org/" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30" style="margin-right:10px;"/>
   </a>
 
-  <a class="icon-link" href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma"/>
+  <a href="https://getbootstrap.com/" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="30" height="30" style="margin-right:10px;"/>
   </a>
-  <a class="icon-link" href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
+  <a href="https://tailwindcss.com/" target="_blank" style="text-decoration:none;">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="30" height="30" style="margin-right:10px;"/>
   </a>
-  <a class="icon-link" href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code"/>
+  <a href="https://sass-lang.com/" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="30" height="30" style="margin-right:10px;"/>
   </a>
-  <a class="icon-link" href="https://vitejs.dev/" target="_blank">
-    <img src="https://vitejs.dev/logo.svg" alt="Vite"/>
+  <a href="https://lesscss.org/" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg" alt="LESS" width="30" height="30" style="margin-right:10px;"/>
   </a>
-  <a class="icon-link" href="https://www.npmjs.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM"/>
+  <a href="https://mui.com/" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="30" height="30" style="margin-right:10px;"/>
+  </a>
+
+  <a href="https://www.figma.com/" target="_blank" style="text-decoration:none;">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="30" height="30" style="margin-right:10px;"/>
+  </a>
+  <a href="https://github.com/" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30" style="margin-right:10px;"/>
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30" style="margin-right:10px;"/>
+  </a>
+  <a href="https://vitejs.dev/" target="_blank" style="text-decoration:none;">
+    <img src="https://vitejs.dev/logo.svg" alt="Vite" width="30" height="30" style="margin-right:10px;"/>
+  </a>
+  <a href="https://www.npmjs.com/" target="_blank" style="text-decoration:none;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="30" height="30" style="margin-right:10px;"/>
   </a>
 </p>
 
-
-<!-- Line 1 -->
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="30" height="30"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="30" height="30"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="30" height="30"/>
-  </a>
-  <a href="https://sass-lang.com/" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="SASS" width="30" height="30"/>
-  </a>
-  <a href="https://lesscss.org/" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/less/less-plain-wordmark.svg" alt="LESS" width="30" height="30"/>
-  </a>
-  <a href="https://mui.com/" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="30" height="30"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="30" height="30"/>
-  </a>
-  <a href="https://github.com/" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30"/>
-  </a>
-  <a href="https://vitejs.dev/" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://vitejs.dev/logo.svg" alt="Vite" width="30" height="30"/>
-  </a>
-  <a href="https://www.npmjs.com/" target="_blank" style="text-decoration: none; outline: none;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="30" height="30"/>
-  </a>
-</p>
-
----
 
 ### 📊 GitHub Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavibuke&layout=compact&langs_count=8&theme=default)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnavibuke&show_icons=true&theme=default)
 
 
 
