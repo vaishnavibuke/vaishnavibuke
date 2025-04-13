@@ -6,9 +6,6 @@
 
 ### 🛠️ Languages and Tools:
 
-
-<h3 align="left">🛠️ Languages and Tools:</h3>
-
 <!-- Line 1 -->
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="text-decoration: none; outline: none;">
@@ -38,10 +35,6 @@
   <a href="https://mui.com/" target="_blank" style="text-decoration: none; outline: none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="30" height="30"/>
   </a>
-</p>
-
-<!-- Line 3 -->
-<p align="left">
   <a href="https://www.figma.com/" target="_blank" style="text-decoration: none; outline: none;">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="30" height="30"/>
   </a>
@@ -58,6 +51,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="30" height="30"/>
   </a>
 </p>
+
 
 
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)](https://isocpp.org/)
