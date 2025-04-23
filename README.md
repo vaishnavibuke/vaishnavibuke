@@ -52,9 +52,6 @@ When I’m not coding, you’ll probably find me capturing stories through my le
 </p>
 
 
-### GitHub Stats:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavibuke&layout=compact&langs_count=8&theme=default)
 
 
 
@@ -87,6 +84,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+### GitHub Stats:
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavibuke&layout=compact&langs_count=8&theme=default)
 -->
 
 
