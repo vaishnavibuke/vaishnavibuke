@@ -33,10 +33,6 @@ When I’m not coding, you’ll probably find me capturing stories through my le
   <a href="https://mui.com/" target="_blank" style="text-decoration:none;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material UI" width="30" height="30" style="margin-right:10px;"/>
   </a>
-
-  <a href="https://www.figma.com/" target="_blank" style="text-decoration:none;">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="30" height="30" style="margin-right:10px;"/>
-  </a>
   <a href="https://github.com/" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30" style="margin-right:10px;"/>
   </a>
@@ -84,6 +80,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+  <a href="https://www.figma.com/" target="_blank" style="text-decoration:none;">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="30" height="30" style="margin-right:10px;"/>
+  </a>
 
 
 ### GitHub Stats:
